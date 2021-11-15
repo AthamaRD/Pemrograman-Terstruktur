@@ -1,2 +1,3 @@
 # Pemrograman-Terstruktur
-Pemrograman Terstruktur_Aradea Tiyu Athama_K3521011
+NAMA : ARADEA TIYU ATHAMA
+NIM  : K3521011
